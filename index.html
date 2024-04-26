@@ -222,15 +222,81 @@
       <hr></nav><main id="main-content" class="main-content"><h1 class="schedule-heading">Summary and Setup</h1>
       
 
-<p>This is a new lesson built with <a href="https://carpentries.github.io/sandpaper-docs" class="external-link">The Carpentries
-Workbench</a>.</p>
-<!-- 
+<p>Welcome to the Carpentry for relational databases with NocoDB in the
+humanities! This course is designed to introduce you to the fundamental
+concepts of relational databases through practical, hands-on experience
+with NocoDB, an open-source platform that transforms your database into
+a smart spreadsheet. With this you can use a database, without coding
+experience and confusing files.</p>
+<p>Although the course is primarily aimed at humanities scholars, the
+principles are easily transferable to other subjects, which means that
+the course can also be relevant and interesting for other
+disciplines.</p>
+<p><strong>In this lesson, you will</strong>:</p>
+<ul><li>Understand the principles of relational database design.</li>
+<li>Turn a database into a smart spreadsheet with NocoDB</li>
+<li>Explore how to create, read, update, and delete data with
+NocoDB.</li>
+<li>Learn how to use the API from NocoDB for analysing or upgrading your
+data.</li>
+<li>Gain insights into relational databases and how NocoDB can simplify
+them.</li>
+</ul><div class="section level3">
+<h3 id="why-nocodb">Why NocoDB?<a class="anchor" aria-label="anchor" href="#why-nocodb"></a></h3>
+<p>NocoDB is presented as a revolutionary tool that converts traditional
+databases into a smart spreadsheet interface, merging the robustness of
+databases with the simplicity and accessibility of spreadsheets.
+Suitable for developers, data analysts, or the simply curious, NocoDB
+makes data management accessible and enjoyable.</p>
+<div id="prerequisites" class="callout prereq">
+<div class="callout-square">
+<i class="callout-icon" data-feather="check"></i>
+</div>
+<div id="prerequisites" class="callout-inner">
+<h3 class="callout-title">Prerequisites<a class="anchor" aria-label="anchor" href="#prerequisites"></a>
+</h3>
+<div class="callout-content">
+<p>This course is ideal for students, developers, and any professionals
+looking to get a basic understanding of relational databases and how to
+use them with NocoDB. Whether you’re a beginner or someone looking to
+refresh your knowledge, this course offers valuable insights and
+practical skills. You dont need any prior skills to take part in this
+lesson. Everything will be learned and explained from scratch. Maybe you
+should know how to use an internet browser and a computer, but
+everything else you need, you will learn here.</p>
+<p>In the end of the lesson, you will find a few episodes, which are
+more complicated and technical advanced. They are more of a “nice to
+have” addon and an outlook of possibilities you can do with NocoDB. The
+features presented there wont teach you exactly how to use them, but
+will show you what is possible.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section level3">
+<h3 id="course-structure">Course Structure<a class="anchor" aria-label="anchor" href="#course-structure"></a></h3>
+<p>The course is structured into modules, each focusing on different
+aspects. Hands-on exercises and real-world examples will help you apply
+the concepts you learn directly in NocoDB.</p>
+<p>We’re excited to have you join us on this journey to mastering
+relational databases. Dive into the modules, experiment with NocoDB, and
+transform the way you work with data!</p>
+</div>
+<section id="about"><h2 class="section-heading">About<a class="anchor" aria-label="anchor" href="#about"></a>
+</h2>
+<hr class="half-width"><p>This lesson is being developed as part of the joint project <a href="https://hermes-hub.de/" class="external-link">HERMES</a> – Humanities Education in
+Research Data and Methods. It is funded by the <a href="https://www.bmbf.de/bmbf/en/home/home_node.html" class="external-link">German Federal
+Ministry of Education and Research (BMBF)</a> to establish a data
+competence centre for the humanities and cultural sciences.</p>
+</section><section id="authors"><h2 class="section-heading">Authors<a class="anchor" aria-label="anchor" href="#authors"></a>
+</h2>
+<hr class="half-width"><ul><li><a href="https://github.com/jutol" class="external-link">Julia Tolksdorf</a></li>
+<li>Golnaz Sarkar Farshi</li>
+<li>Robert Zwick</li>
+</ul><!-- 
 Place links that you need to refer to multiple times across pages here. Delete
 any links that you are not going to use. 
- -->
-
-
-      <section id="setup"><p>FIXME: Setup instructions live in this document. Please specify the
+ --></section><section id="setup"><p>FIXME: Setup instructions live in this document. Please specify the
 tools and the data sets the Learner needs to have installed.</p>
 <section id="data-sets"><h2 class="section-heading">Data Sets<a class="anchor" aria-label="anchor" href="#data-sets"></a>
 </h2>
@@ -264,7 +330,7 @@ e.g. online setup) in the solutions blocks.</p>
   <h3 class="accordion-header" id="headingSpoiler1">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div>Windows</h3>
 </button>
-<div id="collapseSpoiler1" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler1" aria-labelledby="headingSpoiler1">
+<div id="collapseSpoiler1" class="accordion-collapse collapse" aria-labelledby="headingSpoiler1" data-bs-parent="#accordionSpoiler1">
 <div class="accordion-body">
 <p>Use PuTTY</p>
 </div>
@@ -277,7 +343,7 @@ e.g. online setup) in the solutions blocks.</p>
   <h3 class="accordion-header" id="headingSpoiler2">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div>MacOS</h3>
 </button>
-<div id="collapseSpoiler2" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler2" aria-labelledby="headingSpoiler2">
+<div id="collapseSpoiler2" class="accordion-collapse collapse" aria-labelledby="headingSpoiler2" data-bs-parent="#accordionSpoiler2">
 <div class="accordion-body">
 <p>Use Terminal.app</p>
 </div>
@@ -290,7 +356,7 @@ e.g. online setup) in the solutions blocks.</p>
   <h3 class="accordion-header" id="headingSpoiler3">
 <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div>Linux</h3>
 </button>
-<div id="collapseSpoiler3" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler3" aria-labelledby="headingSpoiler3">
+<div id="collapseSpoiler3" class="accordion-collapse collapse" aria-labelledby="headingSpoiler3" data-bs-parent="#accordionSpoiler3">
 <div class="accordion-body">
 <p>Use Terminal</p>
 </div>
