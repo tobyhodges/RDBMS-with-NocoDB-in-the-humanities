@@ -60,6 +60,8 @@ contact: 'robert.zwick@hs-mainz.de' # FIXME
 # Order of episodes in your lesson
 episodes: 
 - introduction.Rmd
+- data-normalisation.Rmd
+- relational-database.Rmd
 
 # Information for Learners
 learners: 
