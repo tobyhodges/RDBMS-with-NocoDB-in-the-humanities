@@ -61,6 +61,15 @@
     <loc>https://carpentries.github.io/workbench-template-rmd/instructor/keypoints.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/workbench-template-rmd/instructor/nocodb-collaborative-work.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-rmd/instructor/nocodb-dataimport.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-rmd/instructor/nocodb-introduction.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/workbench-template-rmd/instructor/profiles.html</loc>
   </url>
   <url>
@@ -68,6 +77,9 @@
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-rmd/instructor/relational-database.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-rmd/instructor/spreadsheets.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-rmd/instructor-notes.html</loc>
@@ -82,6 +94,15 @@
     <loc>https://carpentries.github.io/workbench-template-rmd/keypoints.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/workbench-template-rmd/nocodb-collaborative-work.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-rmd/nocodb-dataimport.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-rmd/nocodb-introduction.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/workbench-template-rmd/profiles.html</loc>
   </url>
   <url>
@@ -89,5 +110,8 @@
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-rmd/relational-database.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-rmd/spreadsheets.html</loc>
   </url>
 </urlset>
