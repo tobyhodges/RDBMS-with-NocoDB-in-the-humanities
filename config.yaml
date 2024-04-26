@@ -62,6 +62,10 @@ episodes:
 - introduction.Rmd
 - data-normalisation.Rmd
 - relational-database.Rmd
+- spreadsheets.Rmd
+- nocodb-introduction.Rmd
+- nocodb-dataimport.Rmd
+- nocodb-collaborative-work.Rmd
 
 # Information for Learners
 learners: 
