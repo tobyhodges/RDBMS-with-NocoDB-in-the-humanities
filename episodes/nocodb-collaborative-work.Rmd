@@ -1,5 +1,5 @@
 ---
-title: "Relational Database Introduction"
+title: "Collaborative Work with NocoDB"
 teaching: 10
 exercises: 3
 ---
