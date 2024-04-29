@@ -1,5 +1,5 @@
 ---
-title: "Spreadsheets Introduction"
+title: "Spreadsheets"
 teaching: 10
 exercises: 3
 ---
