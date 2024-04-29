@@ -1,5 +1,5 @@
 ---
-title: "Dataiport"
+title: "Dataimport"
 teaching: 10
 exercises: 3
 ---
