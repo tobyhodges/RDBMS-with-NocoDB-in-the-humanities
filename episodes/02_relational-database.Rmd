@@ -17,3 +17,15 @@ exercises: 3
 - normalize data in tables
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+## tables
+
+
+## First normal form
+
+
+## second normal form
+
+
+## third normal form
