@@ -19,13 +19,13 @@ exercises: 3
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-## tables
+## Tables
 
 
 ## First normal form
 
 
-## second normal form
+## Second normal form
 
 
-## third normal form
+## Third normal form
