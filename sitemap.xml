@@ -82,6 +82,9 @@
     <loc>https://carpentries.github.io/workbench-template-rmd/instructor/spreadsheets.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/workbench-template-rmd/instructor/tables.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/workbench-template-rmd/instructor-notes.html</loc>
   </url>
   <url>
@@ -113,5 +116,8 @@
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-rmd/spreadsheets.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-rmd/tables.html</loc>
   </url>
 </urlset>

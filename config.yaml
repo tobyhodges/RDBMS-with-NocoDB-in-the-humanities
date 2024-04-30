@@ -66,6 +66,7 @@ episodes:
 - nocodb-introduction.Rmd
 - nocodb-dataimport.Rmd
 - nocodb-collaborative-work.Rmd
+- tables.Rmd
 
 # Information for Learners
 learners: 
