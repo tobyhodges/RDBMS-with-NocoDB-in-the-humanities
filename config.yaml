@@ -67,6 +67,7 @@ episodes:
 - nocodb-dataimport.Rmd
 - nocodb-collaborative-work.Rmd
 - tables.Rmd
+- apis.Rmd
 
 # Information for Learners
 learners: 
