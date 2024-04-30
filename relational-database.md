@@ -6,11 +6,14 @@ exercises: 3
 
 :::::::::::::::::::::::::::::::::::::: questions
 
-- TODO
+- What is a relational database?
+- What is a normal form?
+
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- TODO
+- understand the differences of normal forms
+- normalize data in tables
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
