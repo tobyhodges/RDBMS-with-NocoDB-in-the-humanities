@@ -6,11 +6,14 @@ exercises: 3
 
 :::::::::::::::::::::::::::::::::::::: questions
 
-- TODO
+- What possibilities are given for collaborative work?
+- How can I build a team?
+
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- TODO
+- invite members with and without an account
+- assign different rights
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
