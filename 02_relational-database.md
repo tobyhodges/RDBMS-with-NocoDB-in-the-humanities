@@ -7,6 +7,7 @@ exercises: 3
 :::::::::::::::::::::::::::::::::::::: questions
 
 - What is a relational database?
+- How do keys work?
 - What is a normal form?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
@@ -20,6 +21,12 @@ exercises: 3
 
 
 ## Tables
+
+
+## Primary Key
+
+
+## Foreign Key
 
 
 ## First normal form
