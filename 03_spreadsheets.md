@@ -7,9 +7,9 @@ exercises: 3
 :::::::::::::::::::::::::::::::::::::: questions
 
 - What is a spreadsheet?
-- What are the advantages of a spreadsheet?
-- How do i organize my data in speadsheets?
-- What are basic functions in speadsheets?
+- What are the advantages?
+- How can i organize my data?
+- What are basic functions?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
