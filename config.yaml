@@ -66,7 +66,8 @@ episodes:
 - 05_nocodb-dataimport.Rmd
 - 06_nocodb-collaborative-work.Rmd
 - 07_tables-in-nocodb.Rmd
-- 08_apis.Rmd
+- 08_views-in-nocodb.Rmd
+- 09_apis.Rmd
 
 # Information for Learners
 learners: 
