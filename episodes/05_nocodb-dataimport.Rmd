@@ -6,11 +6,14 @@ exercises: 3
 
 :::::::::::::::::::::::::::::::::::::: questions
 
-- TODO
+- How do I import data in NocoDB?
+- What possibilities are given?
+
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- TODO
+- import data from csv
+- import data from an existing database
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
