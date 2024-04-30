@@ -6,12 +6,34 @@ exercises: 3
 
 :::::::::::::::::::::::::::::::::::::: questions
 
-- TODO
+- How do i create a field?
+- Which functions are given?
+- How d i create a record?
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- TODO
+- create new fields
+- use filter functions
+- add a new record in web interface
+- create a form
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+## Fields
+
+
+
+## Sorting
+
+
+
+## Creating a record
+
+
+
+## Creating a form
