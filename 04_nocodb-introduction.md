@@ -6,11 +6,15 @@ exercises: 3
 
 :::::::::::::::::::::::::::::::::::::: questions
 
-- TODO
+- What is NocoDB?
+- How does NocoDB connect Spreadsheets with a relational database?
+- How can i use NocoDB?
+
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- TODO
+- create a databse with NocoDB
+- understand the basic concept ideas
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
