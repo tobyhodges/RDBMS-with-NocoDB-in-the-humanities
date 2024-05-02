@@ -16,3 +16,15 @@ exercises: 3
 - share a view
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+## Grid
+
+
+## Gallery
+
+
+## Kanban
+
+
+## Form
