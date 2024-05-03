@@ -17,3 +17,10 @@ exercises: 3
 - assign different rights
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+## Roles and permissions
+
+
+## Public access
