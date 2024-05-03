@@ -189,12 +189,21 @@
 <div class="accordion accordion-flush" id="accordionFlushcurrent">
   <div class="accordion-item">
     <div class="accordion-header" id="flush-headingcurrent">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsecurrent" aria-expanded="true" aria-controls="flush-collapsecurrent">
         <span class="visually-hidden">Current Chapter</span>
         <span class="current-chapter">
         5. Dataimport
         </span>
-      
+      </button>
     </div><!--/div.accordion-header-->
+        
+    <div id="flush-collapsecurrent" class="accordion-collapse collapse show" aria-labelledby="flush-headingcurrent" data-bs-parent="#accordionFlushcurrent">
+      <div class="accordion-body">
+        <ul><li><a href="#import-from-existing-database">Import from existing database</a></li>
+<li><a href="#via-api">Via API</a></li>
+<li><a href="#via-form">Via form</a></li>
+        </ul></div><!--/div.accordion-body-->
+    </div><!--/div.accordion-collapse-->
         
   </div><!--/div.accordion-item-->
 </div><!--/div.accordion-flush-->
@@ -293,7 +302,7 @@
       </div>
       <hr></nav><main id="main-content" class="main-content"><div class="container lesson-content">
         <h1>Dataimport</h1>
-        <p>Last updated on 2024-04-30 |
+        <p>Last updated on 2024-05-03 |
         
         <a href="https://github.com/carpentries/workbench-template-rmd/edit/main/episodes/05_nocodb-dataimport.Rmd" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
         
@@ -328,14 +337,16 @@
 </div>
 </div>
 </div>
-<!-- 
+<section id="import-from-existing-database"><h2 class="section-heading">Import from existing database<a class="anchor" aria-label="anchor" href="#import-from-existing-database"></a>
+</h2>
+<hr class="half-width"></section><section id="via-api"><h2 class="section-heading">Via API<a class="anchor" aria-label="anchor" href="#via-api"></a>
+</h2>
+<hr class="half-width"></section><section id="via-form"><h2 class="section-heading">Via form<a class="anchor" aria-label="anchor" href="#via-form"></a>
+</h2>
+<hr class="half-width"><!-- 
 Place links that you need to refer to multiple times across pages here. Delete
 any links that you are not going to use. 
- -->
-
-
-
-      </div> <!-- / div.lesson-content -->
+ --></section></div> <!-- / div.lesson-content -->
     </main><!-- / main#main-content.main-content --><nav class="bottom-pagination mx-md-4" aria-label="Previous and Next Chapter"><div class="d-block d-sm-block d-md-none">
         <a class="chapter-link" href="04_nocodb-introduction.html"><i aria-hidden="true" class="small-arrow" data-feather="arrow-left"></i>Previous</a>
         <a class="chapter-link float-end" href="06_nocodb-collaborative-work.html">Next<i aria-hidden="true" class="small-arrow" data-feather="arrow-right"></i></a>
@@ -393,7 +404,7 @@ any links that you are not going to use.
   "url": "https://carpentries.github.io/workbench-template-rmd/05_nocodb-dataimport.html",
   "identifier": "https://carpentries.github.io/workbench-template-rmd/05_nocodb-dataimport.html",
   "dateCreated": "2024-04-26",
-  "dateModified": "2024-04-30",
+  "dateModified": "2024-05-03",
   "datePublished": "2024-05-03"
 }
 
