@@ -18,12 +18,3 @@ exercises: 3
 - understand the basic concept ideas
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
-
-
-## Introduction
-
-
-## Creating a new database
-
-
-## Fields
