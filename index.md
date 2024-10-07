@@ -24,7 +24,7 @@ NocoDB is presented as a revolutionary tool that converts traditional databases 
 
 ## Prerequisites
 
-This course is ideal for students, developers, and any professionals looking to get a basic understanding of relational databases and how to use them with NocoDB. Whether you're a beginner or someone looking to refresh your knowledge, this course offers valuable insights and practical skills. You dont need any prior skills to take part in this lesson. Everything will be learned and explained from scratch. Maybe you should know how to use an internet browser and a computer, but everything else you need, you will learn here.
+This course is ideal for students, developers, and any professionals looking to get a basic understanding of relational databases and how to use them with NocoDB. Whether you're a beginner or someone looking to refresh your knowledge, this course offers valuable insights and practical skills. You dont need any prior skills to take part in this lesson. Everything will be learned and explained from scratch. Maybe you should know how to use an internet browser and a computer, but everything else you need you will learn here.
 
 In the end of the lesson, you will find a few episodes, which are more complicated and technical advanced. They are more of a "nice to have" addon and an outlook of possibilities you can do with NocoDB. The features presented there wont teach you exactly how to use them, but will show you what is possible.
 
