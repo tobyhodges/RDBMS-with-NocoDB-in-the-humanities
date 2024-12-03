@@ -23,7 +23,6 @@ exercises: 3
 
 
 
-## Via API
 
 
 
